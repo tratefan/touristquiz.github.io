@@ -15,28 +15,28 @@ const scoreDiv = document.getElementById("scoreContainer");
 let questions = [
     {
         question : "When was Steve Biko born?",
-        imgSrc : "img/html.png",
+        imgSrc : "img/steve1.jpg",
         choiceA : "1946",
         choiceB : "1921",
         choiceC : "1936",
         correct : "A"
     },{
         question : "Where was Biko born?",
-        imgSrc : "img/css.png",
+        imgSrc : "img/steve4.jpg",
         choiceA : "Soweto, Johannesburg, GP",
         choiceB : "Ginsberg, Tarkastad, EC",
         choiceC : "Mmabatho,  Mafikeng, NW",
         correct : "B"
     },{
         question : "When did Biko join SASO?",
-        imgSrc : "img/js.png",
+        imgSrc : "img/steve2.jpg",
         choiceA : "1975",
         choiceB : "1980",
         choiceC : "1968",
         correct : "C"
     },{
         question : "In what movement is he famous for being a leading or founding figure?",
-        imgSrc : "img/js.png",
+        imgSrc : "img/steve3.jpg",
         choiceA : "Anti Apartheid Movement",
         choiceB : "Black Consciousness",
         choiceC : "Brothers In Bonds",
